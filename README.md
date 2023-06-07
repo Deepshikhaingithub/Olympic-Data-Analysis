@@ -12,17 +12,23 @@ This analysis focuses on determining the medal tally for each country, showcasin
 
 **Overall Analysis:**
 
-Number of Editions: Determining the total number of Olympic editions covered in the dataset.
-Number of Cities: Analyzing the number of cities that hosted the Summer Olympics.
-Number of Sports/Events: Counting the total number of unique sports/events that were part of the Summer Olympics.
-Number of Athletes: Calculating the total count of athletes who participated in the Olympics.
-Events for Each Sport Over the Years: Examining the distribution of events for each sport over time.
-Participating Nations Over Time: Understanding the trend of participating nations in the Summer Olympics across different editions.
+--Number of Editions: Determining the total number of Olympic editions covered in the dataset.
+
+--Number of Cities: Analyzing the number of cities that hosted the Summer Olympics.
+
+--Number of Sports/Events: Counting the total number of unique sports/events that were part of the Summer Olympics.
+
+--Number of Athletes: Calculating the total count of athletes who participated in the Olympics.
+
+--Events for Each Sport Over the Years: Examining the distribution of events for each sport over time.
+
+--Participating Nations Over Time: Understanding the trend of participating nations in the Summer Olympics across different editions.
 
 **Athlete-wise Analysis:**
 
-Most Successful Athlete: Identifying the most successful athlete based on the number of medals won.
-Age Distribution of Athletes for Different Sports: Analyzing the age distribution of athletes participating in different sports.
+--Most Successful Athlete: Identifying the most successful athlete based on the number of medals won.
+
+--Age Distribution of Athletes for Different Sports: Analyzing the age distribution of athletes participating in different sports.
 Technologies Used
 
 The project was implemented using Python and various data analysis libraries such as Pandas, NumPy, and Matplotlib. Jupyter Notebook was used as the development environment for running and documenting the analysis code.
