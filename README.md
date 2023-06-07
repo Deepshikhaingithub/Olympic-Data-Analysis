@@ -36,11 +36,15 @@ The project was implemented using Python and various data analysis libraries suc
 **Instructions for Running the Analysis**
 
 --Clone the repository to your local machine.
+
 --Ensure that you have Python installed (version 3.6 or above).
---Install the required libraries by running pip install -r requirements.txt.
+
 --Open the Jupyter Notebook file olympics_data-analysis.ipynb.
+
 --Run the notebook cells sequentially to execute the data analysis code.
+
 --Explore the results, visualizations, and conclusions presented in the notebook.
+
 --Feel free to modify the code or adapt the analysis according to your requirements. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy analyzing!
